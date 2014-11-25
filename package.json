@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-express-view",
+  "version": "0.0.1",
+  "description": "Use react.js views with Express",
+  "main": "jsx-engine.js",
+  "dependencies": {
+    "node-jsx": "^0.12.4",
+    "react": "^0.12.1",
+    "react-tools": "^0.12.1"
+  },
+  "devDependencies": {
+    "express": "^4.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Falleiro",
+  "license": "ISC"
+}
