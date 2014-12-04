@@ -3,8 +3,6 @@
 
 Use JSX Views with Express.
 
-TODO: Remove `node-jsx` as a dependency and use `fs` and `react-tools` directly
-
 ## Usage
 ```
 var express = require("express");
