@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-express-view",
+  "name": "reactjs-express-views",
   "version": "0.0.1",
   "description": "Use react.js views with Express",
   "main": "jsx-engine.js",
