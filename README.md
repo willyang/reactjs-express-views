@@ -6,7 +6,7 @@ Use JSX Views with Express.
 ## Usage
 ```
 var express = require("express");
-var jsx = require("../jsx-engine");
+var jsx = require("reactjs-express-views");
 var app = express();
 
 app.engine('jsx', jsx() );
